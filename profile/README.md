@@ -1,12 +1,15 @@
-## Hi there 👋
+# Welcome to Godot Kafka 👋
 
-<!--
+## Our Mission
+Creating multiplayer games can be highly scalable, reliable and optimized! We believe that utilizing tools like Kafka can help us being able to utilize the RPCs systems in Godot, and Godot servers to do server authoritive actions.
 
-**Here are some ideas to get you started:**
+## Our Roadmap
+[Roadmap](https://github.com/orgs/Godot-Kafka/projects/1/views/1)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Projects
+
+[Godot Kafka Addon](https://github.com/Godot-Kafka/godot-kafka) - Primary Addon required to move forward.
+
+[Simple Sample](https://github.com/Godot-Kafka/demo-godot-kafka-sample) - Example.
+
+[MMORPG Example](https://github.com/Godot-Kafka/demo-godot-kafka-mmorpg) - TBA...
